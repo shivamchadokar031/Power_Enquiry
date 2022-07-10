@@ -1,0 +1,77 @@
+.div{
+    height: 80px;
+    width: 1520px;
+    background-color:darkgoldenrod;
+}
+.searchbox {  
+    top: 10px;
+    left: 760px;
+      
+}  
+input[type=text] { 
+    width: 780px; 
+    padding: 6px;
+    margin-top: 23px;
+    margin-left: 300px;
+    font-size: 17px;
+    border: none;  
+}  
+.searchbox button {  
+    padding: 4px;  
+    margin-top: 23px;  
+    margin-left: 10px;  
+    background: darkgoldenrod;  
+    font-size: 20px;
+    color: aliceblue;  
+    border: none;  
+    cursor: pointer;  
+}  
+.searchbox button:hover {  
+    background: rgb(255, 208, 0);  
+}
+.profile{
+    position: absolute;
+    top: 33px;
+    left: 1375px;
+    border-radius: 5px;
+    background-color: darkgoldenrod;
+    width: 120px;
+    height: 30px;
+    align-self: center;
+} 
+.profile.admin_name{
+    position: absolute;
+    top: -32px;
+    left: -7px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    margin: 20px 10px;
+    white-space: nowrap;
+    padding: 20px 10px 10px 15px;
+}
+.profile button {
+    
+}
+/* .profile-details{
+    align-items: center;
+    background: #F5F6FA;
+    border: 2px solid #EFEEF1;
+    border-radius: 6px;
+    height: 25px;
+    width: 110px;
+    padding: 2 15px 0 2px;
+    top: 10px;
+    left: 760px;
+}
+.profile-details img{
+    height: 40px;
+    width: 40px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+.profile-details i{
+    font-size: 25px;
+    color: #333;
+} */
