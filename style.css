@@ -59,6 +59,49 @@ input[type=text] {
     height: 1068px;
     width: 206px;
 }
+.powerhouse{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(56, 44, 13);
+    height: 54px;
+    width: 206px;
+    
+}
+.contribute{
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    background-color: rgb(86, 79, 64);
+    height: 54px;
+    width: 206px;
+}
+.power{
+    position: absolute;
+    top: -22px;
+    left: 22px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    margin: 20px 10px;
+    white-space: nowrap;
+    padding: 20px 10px 10px 15px;
+}
+.powerc{
+    position: absolute;
+    top: 42px;
+    left: -13px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Encode Sans", "Courier New", monospace;
+    font-weight: bolder;
+    font-size:large;
+    color: white;
+    margin: 20px 10px;
+    white-space: nowrap;
+    padding: 20px 10px 10px 15px;
+}
 .complain0{
     position: absolute;
     top: 463px;
