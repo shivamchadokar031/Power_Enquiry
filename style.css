@@ -34,12 +34,12 @@ input[type=text] {
     top: 33px;
     left: 1375px;
     border-radius: 5px;
-    background-color: darkgoldenrod;
+    background-color: rgb(31, 23, 3);
     width: 120px;
     height: 30px;
     align-self: center;
 } 
-.profile.admin_name{
+.admin_name{
     position: absolute;
     top: -32px;
     left: -7px;
@@ -51,8 +51,117 @@ input[type=text] {
     white-space: nowrap;
     padding: 20px 10px 10px 15px;
 }
-.profile button {
-    
+.sidebar{
+    position: absolute;
+    top: 96px;
+    left: 9px;
+    background-color: darkgoldenrod;
+    height: 1068px;
+    width: 206px;
+}
+.complain0{
+    position: absolute;
+    top: 463px;
+    left: 225px;
+    background-color: brown;
+    height: 225px;
+    width: 316px;
+}
+.complain1{
+    position: absolute;
+    top: 463px;
+    left: 553px;
+    background-color: brown;
+    height: 225px;
+    width: 320px;
+}
+.complain2{
+    position: absolute;
+    top: 463px;
+    left: 886px;
+    background-color:brown;
+    height: 225px;
+    width: 318px;
+
+}
+.complain3{
+    position: absolute;
+    top: 463px;
+    left: 1217px;
+    background-color: brown;
+    height: 225px;
+    width: 316px;
+}
+.complain4{
+    position: absolute;
+    top: 701px;
+    left: 225px;
+    background-color: brown;
+    height: 225px;
+    width: 316px;
+}
+.complain5{
+    position: absolute;
+    top: 701px;
+    left: 553px;
+    background-color: brown;
+    height: 225px;
+    width: 320px;
+}
+.complain6{
+    position: absolute;
+    top: 701px;
+    left: 886px;
+    background-color: brown;
+    height: 225px;
+    width: 318px;
+}
+.complain7{
+    position: absolute;
+    top: 701px;
+    left: 1217px;
+    background-color: brown;
+    height: 225px;
+    width: 316px;
+}
+.complain8{
+    position: absolute;
+    top: 939px;
+    left: 225px;
+    background-color:brown;
+    height: 225px;
+    width: 316px;
+}
+.complain9{
+    position: absolute;
+    top: 939px;
+    left: 553px;
+    background-color:brown;
+    height: 225px;
+    width: 320px;
+}
+.complaina{
+    position: absolute;
+    top: 939px;
+    left: 886px;
+    background-color:brown;
+    height: 225px;
+    width: 318px;
+}
+.complainb{
+    position: absolute;
+    top: 939px;
+    left: 1217px;
+    background-color:brown;
+    height: 225px;
+    width: 316px;
+}
+.img{
+    position: absolute;
+    top: 97px;
+    left: 225px;
+    height: 348px
+
 }
 /* .profile-details{
     align-items: center;
